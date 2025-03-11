@@ -1,8 +1,8 @@
 ## 📸 Screenshots
-<img width="1470" alt="Screenshot 2025-01-30 at 6 20 02 PM" src="https://github.com/user-attachments/assets/4be3452d-1a4e-4fdd-9732-f6a622ec2c87" /># dsa-quiz
-link to the live website : https://flashifydsa.adyamansingh.xyz/
+<img width="1470" alt="Screenshot 2025-01-30 at 6 20 02 PM" src="https://github.com/user-attachments/assets/4be3452d-1a4e-4fdd-9732-f6a622ec2c87" />
+<img width="1470" alt="Screenshot 2025-03-11 at 8 57 30 PM" src="https://github.com/user-attachments/assets/935a0340-8367-4e5c-acdb-47ef3a5f81f7" />
 
-Here's a professional and clean `README.md` for your **Flashify DSA** project:
+link to the live website : https://flashifydsa.adyamansingh.xyz/
 
 ---
 
