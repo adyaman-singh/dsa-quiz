@@ -86,9 +86,9 @@ The application is deployed on an **AWS EC2** instance.
 ## 📄 API Endpoints
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| `POST` | `/api/model/submit-answer` | Submits the answer and returns AI-generated feedback |
-| `POST` | `/api/auth/login` | Handles user login via Google OAuth |
-| `GET`  | `/api/questions/:difficulty` | Fetches questions based on the selected difficulty |
+| `POST` | `/model/submit-answer` | Submits the answer and returns AI-generated feedback |
+| `POST` | `/auth/login` | Handles user login via Google OAuth |
+| `GET`  | `/questions/:difficulty` | Fetches questions based on the selected difficulty |
 
 ---
 
@@ -108,7 +108,3 @@ The application is deployed on an **AWS EC2** instance.
 
 ## 📜 License
 This project is licensed under the **MIT License**.  
-
----
-
-Feel free to modify the content or structure to better match your style! 😎
