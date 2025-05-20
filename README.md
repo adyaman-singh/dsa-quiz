@@ -2,7 +2,7 @@
 <img width="1470" alt="Screenshot 2025-01-30 at 6 20 02 PM" src="https://github.com/user-attachments/assets/4be3452d-1a4e-4fdd-9732-f6a622ec2c87" />
 <img width="1470" alt="Screenshot 2025-03-11 at 8 57 30 PM" src="https://github.com/user-attachments/assets/935a0340-8367-4e5c-acdb-47ef3a5f81f7" />
 
-link to the live website : https://flashifydsa.adyamansingh.xyz/
+link to the live website : https://flashify-dsa-adyaman.vercel.app/
 
 ---
 
@@ -79,7 +79,7 @@ npm run start
 
 ## 🚀 Deployment
 The application is deployed on an **AWS EC2** instance.  
-👉 [Live Demo]([https://flashifydsa.adyamansingh.xyz](https://flashifydsavercel-9ixq.vercel.app/))  
+👉 [Live Demo] https://flashify-dsa-adyaman.vercel.app/
 
 ---
 
