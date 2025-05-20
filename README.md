@@ -79,7 +79,7 @@ npm run start
 
 ## 🚀 Deployment
 The application is deployed on an **AWS EC2** instance.  
-👉 [Live Demo](https://flashifydsa.adyamansingh.xyz)  
+👉 [Live Demo]([https://flashifydsa.adyamansingh.xyz](https://flashifydsavercel-9ixq.vercel.app/))  
 
 ---
 
